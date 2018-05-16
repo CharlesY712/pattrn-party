@@ -1,0 +1,50 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+header {
+  background-color: #2F2235;
+}
+
+h1 {
+  padding: 24px 5vw 24px 5vw;
+}
+
+#student-name {
+  color: #F2F2F2;
+  font-size: 16px;
+  font-weight: 300;
+  float: right;
+  padding: 14px;
+}
+
+#pattrn {
+  color: #F2F2F2;
+  font-size: 24px;
+  font-weight: 300;
+}
+
+#party {
+  color: #34D1D1;
+  font-size: 24px;
+  font-weight: 300;
+}
+
+@media (max-width: 414px) {
+  
+  header {
+    height: auto;
+  }
+  
+  h1 {
+    padding: 24px 5vw 24px 5vw;
+    text-align: center;
+  }
+  
+  #student-name {
+    margin: 16px auto;
+    display: block;
+    float: none;
+    border-top: 1px solid #D1D2D3;
+  }
+}
