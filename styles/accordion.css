@@ -1,5 +1,5 @@
 .accordion {
-  height: 500px;
+  height: auto;
   width: 90vw;
   margin: 50px 5vw 50px 5vw;
 }
@@ -89,7 +89,6 @@
 }
 
 .accordion__section {
-  display: flex;
   flex-direction: column;
   margin-top: 36px;
 }
