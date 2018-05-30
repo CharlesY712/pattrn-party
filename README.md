@@ -18,6 +18,6 @@
 
 #### The header, or navigation, bar is extremely common in web pages. This particular style shows navigation links with a search bar that maintain their appropriate area relative to screen size. As the screen size decreases, there is no longer room for each link title, and thus the bar switches in to a drop down mode. This allows the bar to take up less space until needed. With a simple hover the links and search bar reappear with generous sized areas.
 
-
+![ScreenShot]('./images/screenShot.png')
 
 
